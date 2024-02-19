@@ -16,8 +16,23 @@
 </p>
 
 ### Рассмотрены следующие варианты приложения внешней нагрузки:: 
-- Сосредоточенная нагрузка в середине пролета балки;
-- Сосредоточенная нагрузка в произвольном месте балки;
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Сосредоточенная нагрузка в середине пролета балки</summary>
+  <ol align="center">
+    <img src="images/local_midl.png" alt="drawing" width="150"/>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Сосредоточенная нагрузка в произвольном месте балки</summary>
+  <ol align="center">
+    <img src="images/local_left.png" alt="drawing" width="150"/>
+  </ol>
+</details>
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

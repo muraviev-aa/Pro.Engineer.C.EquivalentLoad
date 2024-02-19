@@ -9,8 +9,8 @@
 </p>
 
 ### Цель разработки: 
-определение эквивалентной равномерно распределенной нагрузки от разных видов нагружений на балку с шарнирным опиранием. Критерием перевода 
-служит изгибающий момент.
+определение эквивалентной равномерно распределенной нагрузки от разных видов нагружений на балку с шарнирным опиранием. Критерием перевода служат изгибающие моменты, поперечные силы и опорные
+реакции.
 <p align="center">
 <img src="images/beam.png" alt="drawing" width="400"/>
 </p>
@@ -18,7 +18,7 @@
 ### Рассмотрены следующие варианты приложения внешней нагрузки:: 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Сосредоточенная нагрузка в середине пролета балки</summary>
+  <summary>Сосредоточенная нагрузка в середине пролета балки;</summary>
   <ol align="center">
     <img src="images/local_midl.png" alt="drawing" width="150"/>
   </ol>
@@ -26,13 +26,19 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Сосредоточенная нагрузка в произвольном месте балки</summary>
+  <summary>Сосредоточенная нагрузка в произвольном месте балки;</summary>
   <ol align="center">
     <img src="images/local_left.png" alt="drawing" width="150"/>
   </ol>
 </details>
 
-
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Две равные по значению симметрично расположенные сосредоточенные нагрузки;</summary>
+  <ol align="center">
+    <img src="images/local_two.png" alt="drawing" width="150"/>
+  </ol>
+</details>
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

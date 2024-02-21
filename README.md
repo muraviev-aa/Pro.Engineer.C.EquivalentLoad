@@ -40,5 +40,13 @@
   </ol>
 </details>
 
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Треугольная нагрузка по всей длине балки;</summary>
+  <ol align="center">
+    <img src="images/triangular.png" alt="drawing" width="150"/>
+  </ol>
+</details>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
